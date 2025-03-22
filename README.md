@@ -42,25 +42,6 @@ SmartSeal is an innovative IoT-powered solution designed to enhance the security
 
 ---
 
-## 🛠️ Setup Instructions
-### 📂 Repository Structure
-```bash
-SmartSeal-IoT-Anti-Tampering/
-│── docs/                   # Documentation and research papers
-│── firmware/               # Arduino/ESP32 Code
-│── hardware/               # Circuit diagrams, PCB layouts (if any)
-│── app/                    # Mobile/Web App code (if applicable)
-│── cloud/                  # Cloud integration scripts (if applicable)
-│── examples/               # Sample implementations
-│── LICENSE                 # Open-source license file
-│── README.md               # Project overview
-│── CONTRIBUTING.md         # Guidelines for contributors
-│── CODE_OF_CONDUCT.md      # Community guidelines
-│── .gitignore              # Ignore unnecessary files
-│── setup.md                # Installation & setup instructions
-│── roadmap.md              # Future scope & development plans
-```
-
 ### 🖥️ Installation & Usage
 #### 🔌 Flashing Firmware to ESP32
 1. **Install Dependencies:**
@@ -121,7 +102,7 @@ This project is licensed under the **MIT License** – see the [`LICENSE`](LICEN
 ---
 
 ## ⭐ Star, Fork & Contribute!
-If you found this project useful, consider **starring** ⭐ this repo and **forking** 🍴 to contribute! Let's build a more secure future for e-commerce deliveries. 🚀
+If you found this project useful, consider **starring** ⭐ this repository and **forking** 🍴 to contribute! Let's build a more secure future for e-commerce deliveries. 🚀
 
 ---
 
