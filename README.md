@@ -16,10 +16,10 @@ SmartSeal is an innovative IoT-powered solution designed to enhance the security
 ---
 
 ## 🔧 Hardware Components
-- **ESP32/ESP8266:** The brain of the system, handling sensor inputs and cloud communication.
-- **Magnetic Sensor:** Detects package openings by sensing changes in the magnetic field.
+- **Node MCU - ESP WROOM 32:** The brain of the system, handling sensor inputs and cloud communication.
+- **Magnetic Hall Sensor:** Detects package openings by sensing changes in the magnetic field.
 - **Motion Sensor:** Identifies sudden impacts or unauthorized movements.
-- **Buzzer & LED Indicators:** Provides local alerts when tampering is detected.
+- **Buzzer Module& LED Indicators:** Provides local alerts when tampering is detected.
 - **Power Supply:** Battery-powered for portability.
 
 ---
